@@ -1,0 +1,36 @@
+body{
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: url('n_1.jpg') ;
+  background-size: cover;
+  background-position: center;
+}
+.container{
+    text-align: center;
+    justify-content: center;
+    color: rgb(13, 241, 192);
+}
+.information{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(226, 4, 141);
+}
+.info{
+    text-align: left;
+    height: 370px; 
+    width: 340px;
+}
+.dream{
+    text-align: right;
+    height: 370px; 
+    width: 340px;   
+}
+a{
+    color: rgb(168, 8, 123);
+    text-decoration: none;
+}
+  a:hover{
+    text-decoration: underline;
+}
